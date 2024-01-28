@@ -1,0 +1,19 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "this is a practice for react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhrajwade/React-Practice.git"
+  },
+  "author": "Sourabh Rajwade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhrajwade/React-Practice/issues"
+  },
+  "homepage": "https://github.com/sourabhrajwade/React-Practice#readme"
+}
